@@ -1,0 +1,29 @@
+.full-container {
+    background-color: rgba(171,41,75,0.25);
+    border-radius: 20px 20px 40px 40px;
+    margin: 20px 0;
+}
+
+.top-container {
+    background-color: rgba(171,41,75,1);
+    border-radius: 40px;
+    margin-bottom: 0;
+}
+
+.top-container h2 {
+    color: white;
+    margin: 0;
+}
+
+.bottom-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.bottom-container p {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
