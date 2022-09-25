@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'baskerville';
 }
 
 body {
@@ -92,8 +93,13 @@ body {
     margin-top: 100px;
 }
 
+.footer p {
+    margin: 10px 0;
+}
+
 .footer ul {
     margin: 0;
+    font-style: italic;
 }
 
 .icons{
