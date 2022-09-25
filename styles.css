@@ -88,18 +88,25 @@ body {
     width: 100%;
     height: 150px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    position: relative;
     color: #F33E77;
     margin-top: 100px;
 }
 
 .footer p {
-    margin: 10px 0;
+    margin: 0 0 2.5px 0;
 }
 
 .footer ul {
     margin: 0;
     font-style: italic;
+}
+
+.team-names {
+    position: absolute;
+    left: 0;
+    margin: 1.5% 0;
 }
 
 .icons{
