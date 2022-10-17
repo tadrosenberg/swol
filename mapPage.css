@@ -1,10 +1,16 @@
-.map-picture {
+.map-API {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 5%;
 }
 
-.map-picture img {
+.map-API p {
+    margin: 0;
+    font-size: medium;
+}
+
+.map-API img {
     border-style: double;
-    width: 75%;
+    width: 80%;
 }
