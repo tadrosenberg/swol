@@ -1,0 +1,10 @@
+.map-picture {
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+
+.map-picture img {
+    border-style: double;
+    width: 75%;
+}
