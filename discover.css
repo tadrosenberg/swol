@@ -14,3 +14,15 @@
     border-style: double;
     width: 80%;
 }
+
+#foodHeader {
+    margin: 20px;
+}
+
+.locations {
+    
+}
+.info {
+    font-style: italic;
+    color: gray;
+}
